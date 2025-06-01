@@ -1,3 +1,4 @@
 # Project-Perweb
 -**Alfin Rifaldy**: Desain Halaman Tentang 
 -**Rizki Wardani**: Desain Halaman Kontak
+-**Ary Subakti**: Desain Beranda
